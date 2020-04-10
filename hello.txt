@@ -1,9 +1,4 @@
 Today we are learning github
-<<<<<<< HEAD
 My Name is Suvankar Roy
 My Brothers name is Rajesh 
-=======
-My Name is Suvankar
-My Brothers name is Rajesh
 my name is dholakola2 
->>>>>>> 537b3889759ac50293b34cf048a469114959305f
